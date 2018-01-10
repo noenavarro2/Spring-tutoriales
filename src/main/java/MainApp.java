@@ -1,7 +1,9 @@
-package pedroNavarro.HelloSpring;
+
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import pedroNavarro.HelloSpring.HelloWorld;
 
 public class MainApp {
 	public static void main(String[] args) {
